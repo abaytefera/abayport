@@ -22,8 +22,8 @@ const projects = [
     description: "It is a personal portfolio built with React and Tailwind CSS",
     tech: [ "Tailwind CSS", "React"],
     image: "person2.png",
-    live: "https://yourdashboard.com",
-    github: "https://github.com/yourusername/dashboard",
+    live: "https://abayport.vercel.app/",
+    github: "https://github.com/abaytefera/abayport.git",
   },
 ];
 

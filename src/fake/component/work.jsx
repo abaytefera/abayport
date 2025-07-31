@@ -3,7 +3,7 @@ import React from "react";
 const projects = [
   {
     title: "out of the ashe",
-    description: "Out of the Ashe is a website made with React and Tailwind CSS. It helps store information about children. login Email:abaytefera92@gmail.com password:12345678. ",
+    description: "Out of the Ashe is a website made with React and Tailwind CSS. It helps store information about children. login Email:abaytefera92@gmail.com password:Abu4858@. ",
     tech: ["React", "Tailwind CSS", "Vite"],
    video: "Videoone.mp4", // Add actual image to your public/assets folder
     live: "https://abay-out-of-ashe.vercel.app/",

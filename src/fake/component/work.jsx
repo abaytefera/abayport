@@ -1,6 +1,14 @@
 import React from "react";
 
 const projects = [
+   {
+    title: "E-commerce Store",
+    description: "Fully functional shopping site with product built with React and Tailwind CSS.",
+    tech: ["React", "Tailwind CSS", ],
+    image: "eco.png",
+    live: "https://abay-eco.vercel.app/",
+    github: "https://github.com/abaytefera/abayEco.git",
+  },
   {
     title: "out of the ashe",
     description: "Out of the Ashe is a website made with React and Tailwind CSS. It helps store information about children. login Email:abaytefera92@gmail.com password:Abu4858@. ",
@@ -9,14 +17,7 @@ const projects = [
     live: "https://abay-out-of-ashe.vercel.app/",
     github: "https://github.com/abaytefera/abay-out-of-ashe.git",
   },
-  {
-    title: "E-commerce Store",
-    description: "Fully functional shopping site with product built with React and Tailwind CSS.",
-    tech: ["React", "Tailwind CSS", ],
-    image: "eco.png",
-    live: "https://abay-eco.vercel.app/",
-    github: "https://github.com/abaytefera/abayEco.git",
-  },
+ 
   {
     title: "personal portfolio",
     description: "It is a personal portfolio built with React and Tailwind CSS",

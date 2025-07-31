@@ -7,7 +7,7 @@ const Navbar = () => {
   console.log(ClickMeanu);
 
   return (
-    <nav className="flex justify-between box-content  items-center  p-6 relative">
+    <nav className="flex bg-white shadow-md sticky top-0 z-50 w-full justify-between box-content  items-center  p-6 relative">
       <h1 className="text-2xl  flex items-center gap-[5px] font-serif italic"> <span className="">Abay</span>. <span className="sm:hidden cursor-pointer"  onClick={()=>{ setClickMeanu(pre=>!pre)}} >    <FontAwesomeIcon icon={faBars}></FontAwesomeIcon></span></h1>
   
       <ul className={`flex space-x-8  text-sm font-medium ${ClickMeanu ? "max-sm:flex max-sm:flex-col max-sm:translate-x-[0px]  max-sm:top-[60px] max-sm:z-600 max-sm:-left-[32px] max-sm:absolute max-sm:bg-black max-sm:h-screen max-sm:w-[200px] max-sm:text-white max-sm:rounded-r-[10px] max-sm:gap-[20px] max-sm:item-center max-sm:pt-[40px] max-sm:transition max-sm:duration-300 max-sm:ease-linear ":"max-sm:flex max-sm:flex-col max-sm:-translate-x-[190px]  max-sm:top-[60px] max-sm:z-600 max-sm:-left-[50px] max-sm:absolute max-sm:bg-black max-sm:h-screen max-sm:w-[200px] max-sm:text-white max-sm:rounded-r-[10px] max-sm:gap-[20px] max-sm:item-center max-sm:pt-[40px] max-sm:transition max-sm:duration-300 max-sm:ease-linear " } `}>

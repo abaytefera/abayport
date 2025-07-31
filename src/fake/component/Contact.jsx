@@ -109,10 +109,10 @@ const Contact = () => {
         <div className="mt-12 text-center space-y-4">
           <p className="text-gray-600 text-lg">Or find me on:</p>
           <div className="flex justify-center space-x-6 text-gray-700 text-2xl">
-            <a href="mailto:abaytefera@gmail.com" title="Email" className="hover:text-yellow-500">
+            <a href="mailto:abaytefera29@gmail.com" title="Email" className="hover:text-yellow-500">
           <FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>
             </a>
-            <a href="https://github.com/abayteferagi" target="_blank" rel="noopener noreferrer" title="GitHub" className="hover:text-yellow-500">
+            <a href="https://github.com/abaytefera" target="_blank" rel="noopener noreferrer" title="GitHub" className="hover:text-yellow-500">
                 <FontAwesomeIcon icon={faGithub}></FontAwesomeIcon>
             </a>
           

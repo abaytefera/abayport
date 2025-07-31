@@ -14,7 +14,7 @@ const projects = [
     description: "Fully functional shopping site with product built with React and Tailwind CSS.",
     tech: ["React", "Tailwind CSS", ],
     image: "eco.png",
-    live: "https://yourecommerce.com",
+    live: "https://abay-eco.vercel.app/",
     github: "https://github.com/abaytefera/abayEco.git",
   },
   {

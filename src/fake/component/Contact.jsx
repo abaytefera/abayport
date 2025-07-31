@@ -112,7 +112,7 @@ const Contact = () => {
             <a href="mailto:abaytefera@gmail.com" title="Email" className="hover:text-yellow-500">
           <FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>
             </a>
-            <a href="https://github.com/abaytefera" target="_blank" rel="noopener noreferrer" title="GitHub" className="hover:text-yellow-500">
+            <a href="https://github.com/abayteferagi" target="_blank" rel="noopener noreferrer" title="GitHub" className="hover:text-yellow-500">
                 <FontAwesomeIcon icon={faGithub}></FontAwesomeIcon>
             </a>
           

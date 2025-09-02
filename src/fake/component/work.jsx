@@ -1,6 +1,15 @@
 import React from "react";
 
 const projects = [
+
+   {
+    title: "out of the ashe",
+    description: "Out of the Ashe is a website made with React and Tailwind CSS. It helps store information about children. login Email:abaytefera92@gmail.com password:Abu4858@. ",
+    tech: ["React", "Tailwind CSS", "Vite"],
+   video: "https://zkjgdrtmexmdmqvstwuz.supabase.co/storage/v1/object/public/my-file/out-of-ashe.mp4", // Add actual image to your public/assets folder
+    live: "https://abay-out-of-ashe.vercel.app/",
+    github: "https://github.com/abaytefera/abay-out-of-ashe.git",
+  },
    {
     title: "E-commerce Store",
     description: "Fully functional shopping site with product built with React and Tailwind CSS.",
@@ -9,23 +18,9 @@ const projects = [
     live: "https://abay-eco.vercel.app/",
     github: "https://github.com/abaytefera/abayEco.git",
   },
-  {
-    title: "out of the ashe",
-    description: "Out of the Ashe is a website made with React and Tailwind CSS. It helps store information about children. login Email:abaytefera92@gmail.com password:Abu4858@. ",
-    tech: ["React", "Tailwind CSS", "Vite"],
-   video: "Videoone.mp4", // Add actual image to your public/assets folder
-    live: "https://abay-out-of-ashe.vercel.app/",
-    github: "https://github.com/abaytefera/abay-out-of-ashe.git",
-  },
  
-  {
-    title: "personal portfolio",
-    description: "It is a personal portfolio built with React and Tailwind CSS",
-    tech: [ "Tailwind CSS", "React"],
-    image: "person2.png",
-    live: "https://abayport.vercel.app/",
-    github: "https://github.com/abaytefera/abayport.git",
-  },
+ 
+
 ];
 
 const Work = () => {
